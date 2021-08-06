@@ -5,12 +5,14 @@
     background-color: rgb(255, 227, 227);
     color: rgb(47, 0, 61);
 }
-.canvas{
+
+.canvas {
     display: flex;
     grid-template-columns: auto;
     padding: 10px;
     background-color: rgb(202, 215, 255);
 }
+
 #snake {
     margin-top: 20px;
     border: solid 5px rgb(224, 221, 17);
